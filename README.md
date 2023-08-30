@@ -1,7 +1,10 @@
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pandas)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[//]: # (Badges do projeto - 🡣)
 
+[![image](https://img.shields.io/badge/tags-KAGGLE%20|%20DATASET%20|%20EXPLORATORY%20|%20DATA%20|%20ANALYSIS%20-red)]()
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pandas)]()
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
+[//]: # (🡡 - Badges do projeto)
 
 ![Logo](https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png)
 
@@ -24,7 +27,7 @@ Caso necessário faça a instalação das seguintes bibliotecas
 ## Atividades
 
 - Visite algum repositório e escolha um conjunto de dados de seu interesse.
-	Recomenda-se criar um perfil no Kaggle e utilizar os datasets disponíveis - link
+	Recomenda-se criar um perfil no Kaggle e utilizar os datasets disponíveis - [Kaggle](https://www.kaggle.com/)
 
 
 - Faça uma descrição do conjunto de dados escolhido. Indique os seguintes pontos:
@@ -68,6 +71,15 @@ A entrega deve ser realizada pelo Teams da disciplina em um único arquivo no fo
 - [@ViniciusHolanda001](https://github.com/ViniciusHolanda001)
 
 
+## Documentation
+
+[![Kaggle](https://www.kaggle.com/)]()
+[![Matplotlib](https://matplotlib.org/stable/index.html)]()
+[![Numpy](https://numpy.org/doc/stable/)]()
+[![Pandas](https://pandas.pydata.org/docs/)]()
+[![Seaborn](https://seaborn.pydata.org/#)]()
+[![Scipy](https://docs.scipy.org/doc/scipy/)]()
+
 
 ## License
 
@@ -77,4 +89,3 @@ A entrega deve ser realizada pelo Teams da disciplina em um único arquivo no fo
 ## Contato
 
 Para contato, envie e-mail para profvinicius.cavalcante@fiap.com.br ou me procure pelo Teams.
-
