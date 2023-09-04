@@ -51,7 +51,7 @@ Caso necessário faça a instalação das seguintes bibliotecas
     - Scatter plot
 
 
-• Esta atividade é baseada no conteúdo de estatítista, manipulação de arquivos e visualização de dados.
+• Esta atividade é baseada no conteúdo de estatística, manipulação de arquivos e visualização de dados.
 
 
 ## Deployment
