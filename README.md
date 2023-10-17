@@ -15,7 +15,7 @@
 
 ## Instalando alguns pacotes
 
-Caso necessário faça a instalação das seguintes bibliotecas
+• Caso necessário faça a instalação das seguintes bibliotecas
 
 ```bash
     pip install numpy
@@ -24,7 +24,7 @@ Caso necessário faça a instalação das seguintes bibliotecas
     pip install scipy
 ```
 
-Bibliotecas extras para praticarem
+• Bibliotecas extras para praticarem
 
 ```bash
     pip install plotly
@@ -61,20 +61,17 @@ Recomenda-se criar um perfil no Kaggle e utilizar os datasets disponíveis - [Ka
 LEMBRE-SE de justificar os processamentos.
 
 
-
-- Utilize funções estatísticas para descrever as variáveis númericas de seu conjunto de dados.
-    - Média
-    - Mediana
-    - Variância
-    - Desvio Padrão
+- Plotar e analisar a correlação das variáveis do conjunto de dados:
 
 
-- Utilize as bibliotecas Matplotlib e Seaborn para criar visualizações das análises realizadas.
-    - Histograma
-    - Scatter plot
+- Plotar a Matriz de Confusão e apresentar o classification report:
+    - Analisar as métricas
+    - Descrever sua compreensão das métricas para cada um dos modelos
+    
 
+- Definir um modelo com base na análise realizada
+    - Jusitifique sua escolha
 
-• Esta atividade é baseada no conteúdo de estatítista, manipulação de arquivos e visualização de dados.
 
 
 ## Deployment
@@ -83,10 +80,10 @@ Para entregar este projeto
 
 ```bash
 Para entrega, o aluno deverá elaborar um único relatório (Jupyter Notebook) com os resultados das atividades solicitadas.
-A entrega deve ser realizada pelo Teams da disciplina em um único arquivo no formato .ipynb identificado como como “RM_NOME_202302_CP1.ipynb”, onde “NOME” e "RM" devem ser substituídos pelos dados do aluno que elaborou o arquivo.
+A entrega deve ser realizada pelo Teams da disciplina em um único arquivo no formato .ipynb identificado como f“{RM}_{NOME}_202302_CP2.ipynb”, onde “NOME” e "RM" devem ser substituídos pelos dados do aluno que elaborou o arquivo.
 ```
 
-• As análises devem conter o código utilizado e suas respectivas considerações utilizando Markdown para explicar a análise da função e do gráfico plotado.
+• As análises devem conter o código utilizado e suas respectivas considerações utilizando Markdown para explicar as análises.
 
 
 ## Authors
@@ -102,6 +99,8 @@ A entrega deve ser realizada pelo Teams da disciplina em um único arquivo no fo
 [![Pandas](https://pandas.pydata.org/docs/)]()
 [![Seaborn](https://seaborn.pydata.org/#)]()
 [![Scipy](https://docs.scipy.org/doc/scipy/)]()
+[![Polars](https://pola-rs.github.io/polars/user-guide/index.html)]()
+[![Plotly](https://plotly.com/python/)]()
 
 
 ## License
