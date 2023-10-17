@@ -44,13 +44,22 @@ Recomenda-se criar um perfil no Kaggle e utilizar os datasets disponíveis - [Ka
     - Um parágrafo simples.
 
 
-- Faça uma descrição do conjunto de dados escolhido. Indique os seguintes pontos:
+- Descrever o conjunto de dados escolhido. Indique os seguintes pontos:
     - Origem
     - Nome
     - Tamanho
     - Quantidade de Registros
     - Linhas x Colunas
     - Dados Faltantes
+
+
+- Descrever o pré-processamento realizado no conjunto de dados (Feature engineering):
+    - Criação ou exclusão de variáveis
+    - Ajuste de variável
+    - Normalização ou Padronização
+
+LEMBRE-SE de justificar os processamentos.
+
 
 
 - Utilize funções estatísticas para descrever as variáveis númericas de seu conjunto de dados.
