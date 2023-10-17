@@ -8,7 +8,7 @@
 
 ![Logo](https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png)
 
-# Checkpoint 1TDS
+# Checkpoint 2 1TDS
 
 • Esta atividade deve ser realizada individualmente
 
@@ -24,10 +24,24 @@ Caso necessário faça a instalação das seguintes bibliotecas
     pip install scipy
 ```
 
+Bibliotecas extras para praticarem
+
+```bash
+    pip install plotly
+    pip install polars
+```
+
+
 ## Atividades
 
-- Visite algum repositório e escolha um conjunto de dados de seu interesse.
-	Recomenda-se criar um perfil no Kaggle e utilizar os datasets disponíveis - [Kaggle](https://www.kaggle.com/)
+- Criar 03 (três) modelos de classificação:
+	- Encontrar um conjunto de dados que atenda os requisitos para classificação (variável resposta)
+
+Recomenda-se criar um perfil no Kaggle e utilizar os datasets disponíveis - [Kaggle](https://www.kaggle.com/)
+
+
+- Descrever o objetivo do modelo considerando a estrutura do conjunto de dados - o que se pretende solucionar:
+    - Um parágrafo simples.
 
 
 - Faça uma descrição do conjunto de dados escolhido. Indique os seguintes pontos:
