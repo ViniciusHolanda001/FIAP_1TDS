@@ -70,7 +70,7 @@ pip install plotly polars
 A entrega deve conter os seguintes arquivos dentro de um .zip:
 
 ```bash
-{RM}_{NOME}_202401_CP2.zip
+{RM}_{NOME}_202501_CP3.zip
 ```
 
 💡 Sugestão de Tópicos para o Notebook
