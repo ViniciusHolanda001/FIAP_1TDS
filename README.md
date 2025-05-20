@@ -32,7 +32,7 @@ pip install plotly polars
 📂 Dataset
 
 🔗 KC House Data - Kaggle
-[![KC House Data](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)]()
+- https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
 
     O dataset trata de uma variável resposta contínua (regressão).
